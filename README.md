@@ -1,3 +1,5 @@
+![Alt text](Web_scraping.png)
+
 # 🌍 CountryCat Explorer 🐱
 
 A fun and educational mini project built in Jupyter Notebook for curious minds (and smart 5-year-olds 😉). It fetches country information like capital, population, currency, and flag using the **REST Countries API**, and adds a fun twist with random cat facts from **CatFact Ninja API**.
